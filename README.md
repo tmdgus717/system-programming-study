@@ -6,4 +6,4 @@
 
 교재 : https://www.hanbit.co.kr/store/books/look.php?p_code=B7673779595
 
-1장 : 
+1장 : https://github.com/tmdgus717/system-programming-study/blob/main/chapter1.md
